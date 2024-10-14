@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
 	<name>QuakeGX-MOD</name>
-	<version>r1.1</version>
+	<version>r1.0</version>
 	<coder>Leah Anderson</coder>
 	<short_description>Quake port for the Wii</short_description>
 	<long_description>This is a modification of the Wii homebrew QuakeGX to make it compatible with the latest DevkitPro libraries. In order to use this you have to put any Quake PAK files into the ID1 directory located on your SD card/USB drive inside of the "apps/quake" directory.</long_description>
